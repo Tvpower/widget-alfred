@@ -15,6 +15,7 @@ A modern React application built with Vite, featuring Tailwind CSS for styling a
 - I love backend dev much more than frontend
 - I look a code looking for optimizations and how to make it faster
 - Able to design whole API's from scratch
+
 ## Prerequisites
 
 - Node.js (version 16 or higher)
